@@ -2,8 +2,10 @@
 
 A personal learning journal — from zero electronics knowledge to embedded systems, one session at a time.
 
-Hardware: ESP32 DevKit V1 + Elegoo starter kit  
+Hardware: ESP32 DevKit V1 + Elegoo starter kit
 Framework: Arduino IDE / C++
+
+![electronics 101](files/electronics101.jpg)
 
 ---
 
