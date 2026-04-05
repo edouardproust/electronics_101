@@ -1,9 +1,9 @@
 // define pins
-const int n = 3;
+const int n = 3;		   // number of colors (R, G, B)
 int pins[n] = {2, 4, 5};   // GPIO pins for R, G, B respectively
 int vals[n] = {255, 0, 0}; // 255 means full brightness, 0 means off
-int delay_ms = 10;
-int val_increment = 1;
+int delay_ms = 10;		   // delay in milliseconds between each step of the fade
+int val_increment = 1;	   // how much to increase/decrease the brightness of each color in each step of the fade
 
 void setup()
 {
