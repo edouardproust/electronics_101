@@ -2,6 +2,8 @@
 
 https://github.com/user-attachments/assets/215b9ac4-0047-4a70-8be9-d7ccd5b95114
 
+<img src="files/schema.jpg" width="400">
+
 ## ESP32 — Voltage basics
 
 - Power input: USB-C (5V) or Vin pin (5-12V max)
