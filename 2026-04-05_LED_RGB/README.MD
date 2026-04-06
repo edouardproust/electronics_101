@@ -1,5 +1,22 @@
 # Electronics 101 (Day 1) — Cheat Sheet
 
+## Table of Contents
+
+- [ESP32 — Voltage basics](#esp32--voltage-basics)
+- [GPIO pins](#gpio-pins)
+- [Ohm's Law](#ohms-law)
+- [Why a resistor before an LED?](#why-a-resistor-before-an-led)
+- [Parallel circuit](#parallel-circuit)
+- [Voltage drop](#voltage-drop)
+- [Short circuit](#short-circuit)
+- [Breadboard](#breadboard)
+- [Resistors](#resistors)
+- [LEDs](#leds)
+- [Flashing the ESP32 with Arduino IDE](#flashing-the-esp32-with-arduino-ide)
+- [Arduino functions used](#arduino-functions-used)
+
+---
+
 https://github.com/user-attachments/assets/215b9ac4-0047-4a70-8be9-d7ccd5b95114
 
 <img src="files/schema.jpg" width="400">
@@ -101,3 +118,14 @@ _Additive color mixing: R + G + B = white_
 3. Select: Board → "ESP32 Dev Module" / Port → `/dev/ttyUSB0`
 4. Click "Upload"
 5. If connection fails: hold the **BOOT** button during upload
+
+---
+
+## Arduino functions used
+
+| Function                      | Purpose                                             |
+| ----------------------------- | --------------------------------------------------- |
+| `pinMode(pin, OUTPUT)`        | Sets a GPIO as output                               |
+| `digitalWrite(pin, HIGH/LOW)` | Sets a GPIO output to HIGH (3.3V) or LOW (0V)       |
+| `analogWrite(pin, 0-255)`     | Outputs a PWM signal to control intensity           |
+| `delay(ms)`                   | Pauses execution for a given number of milliseconds |
