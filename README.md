@@ -2,8 +2,14 @@
 
 A personal learning journal — from zero electronics knowledge to embedded systems, one session at a time.
 
-Hardware: ESP32 DevKit V1 + Elegoo starter kit
-Framework: Arduino IDE / C++
+- Hardware: ESP32 DevKit V1 + Elegoo starter kit components, including:
+  - LEDs, resistors, and push buttons
+  - Sensors: DHT11 (temperature & humidity), photoresistor (light sensor), ultrasonic sensor (HC-SR04), potentiometer
+  - Motors / Actuators: DC motors with motor driver, servo motors
+  - Buzzer, LCD display, jumper wires, breadboard
+- Software: Arduino IDE / C++
+
+Elegoo Starter Kit components
 
 ![electronics 101](files/electronics101.jpg)
 
