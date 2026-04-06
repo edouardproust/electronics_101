@@ -1,6 +1,6 @@
 # Electronics 101
 
-A personal learning journal — from zero electronics knowledge to embedded systems, one session at a time.
+**A personal learning journal — from zero electronics knowledge to embedded systems, one session at a time.**
 
 - Hardware: ESP32 DevKit V1 + Elegoo starter kit components, including:
   - LEDs, resistors, and push buttons
@@ -8,8 +8,6 @@ A personal learning journal — from zero electronics knowledge to embedded syst
   - Motors / Actuators: DC motors with motor driver, servo motors
   - Buzzer, LCD display, jumper wires, breadboard
 - Software: Arduino IDE / C++
-
-Elegoo Starter Kit components
 
 ![electronics 101](files/electronics101.jpg)
 
