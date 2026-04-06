@@ -15,9 +15,10 @@
 
 ## Sessions
 
-| #                        | Date       | Topics                                                                 |
-| ------------------------ | ---------- | ---------------------------------------------------------------------- |
-| [01](2026-04-05_LED_RGB) | 2026-04-05 | Ohm's Law, resistors, LEDs, RGB LED, breadboard basics, flashing ESP32 |
+| #                               | Date       | Topics                                                                       |
+| ------------------------------- | ---------- | ---------------------------------------------------------------------------- |
+| [01](2026-04-05_LED_RGB)        | 2026-04-05 | Ohm's Law, resistors, LEDs, RGB LED, breadboard basics, flashing ESP32       |
+| [02](2026-04-06_digital-inputs) | 2026-04-06 | Push buttons, pull-up resistors, floating pin, debouncing, falling edge, PWM |
 
 ---
 
