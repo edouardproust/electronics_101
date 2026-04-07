@@ -1,4 +1,4 @@
-# Electronics 101 (Day 2) — Cheat Sheet
+# Electronics 101 (Day 2) — Digital inputs
 
 ## Table of Contents
 

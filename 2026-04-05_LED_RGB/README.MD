@@ -1,4 +1,4 @@
-# Electronics 101 (Day 1) — Cheat Sheet
+# Electronics 101 (Day 1) — LED & RGB LED
 
 ## Table of Contents
 
