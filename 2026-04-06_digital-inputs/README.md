@@ -15,6 +15,8 @@
 
 https://github.com/user-attachments/assets/f3faefaf-c0a9-407c-8abc-70572b74de54
 
+![circuit](files/circuit.png)
+
 ## Push buttons (tactile switches)
 
 - A button is a simple switch: pressed = circuit closed, released = circuit open

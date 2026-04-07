@@ -19,7 +19,7 @@
 
 https://github.com/user-attachments/assets/215b9ac4-0047-4a70-8be9-d7ccd5b95114
 
-<img src="files/schema.jpg" width="400">
+![circuit](files/circuit.png)
 
 ## ESP32 — Voltage basics
 

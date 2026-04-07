@@ -8,6 +8,7 @@
   - Motors / Actuators: DC motors with motor driver, servo motors
   - Buzzer, LCD display, jumper wires, breadboard
 - Software: Arduino IDE / C++
+- Circuits schematics are made with Circuit Diagram: [see my profile](https://www.circuit-diagram.org/user/18eebd14-f304-4021-9674-05b5629c26ef)
 
 ![electronics 101](files/electronics101.jpg)
 
